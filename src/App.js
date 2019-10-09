@@ -1,15 +1,14 @@
 import React, { Component } from 'react';
-import './App.css';
-import Youtube from './Youtube';
+import Youtube from './Components/Youtube';
 
 
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        <div className="App-header">
+      <div>
+        <header style={{backgroundColor:'red', height:"75px", textAlign:"center", color:"white", padding:"20px"}}>
           <h2>Get From YouTube</h2>
-        </div>
+        </header>
         <Youtube />
       </div>
     );
