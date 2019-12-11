@@ -2,6 +2,10 @@
 
 ## Live: https://5d9e0dd0ea031c017b9541c8--competent-bardeen-32b1e1.netlify.com/
 
+or
+
+## Live: http://ahmetsezen.com/translate/
+
 In the project directory, you can run:
 
 ### `npm install`
