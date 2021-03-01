@@ -1,6 +1,6 @@
 ## Simple YouTube API Project, with this project you can get any youtube videos which as you want. 
 
-## Live: http://ahmetsezen.com/translate/
+## Live: https://easyoutuber.netlify.app/
 
 In the project directory, you can run:
 
